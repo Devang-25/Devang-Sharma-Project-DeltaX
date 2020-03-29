@@ -1,5 +1,4 @@
-# Hashify
-## A simple music streaming Web-App
+# Music Streaming Web-App by DEVANG SHARMA
 
 #### A simple music streaming site created Using PHP , Javascript (Jquery, AJAX) , HTML , CSS. Database Used - MySql.
 
